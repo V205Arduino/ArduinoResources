@@ -6,5 +6,5 @@ Arduino Project Hub
 Arduino Docs
 
 Docs:
-*Adafruit learning system
-*SparkFun learning system
+*Adafruit learning system*
+*SparkFun learning system*
