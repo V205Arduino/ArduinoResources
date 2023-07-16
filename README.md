@@ -3,7 +3,7 @@ This repo is filled with my favorite Arduino resources!
 Will add links.
 
 * Table of contents:
- * [Table of contents](https://github.com/V205Github/MyFavoriteArduinoResources.)
+  * [Table of contents](https://github.com/V205Github/MyFavoriteArduinoResources.)
 
 
 
