@@ -5,6 +5,12 @@ Arduino Forum
 Arduino Project Hub
 Arduino Docs
 
-Docs:
-*Adafruit learning system*
-*SparkFun learning system*
+
+
+* Documentation and Tutorials:
+  * [Arduino Docs](https://docs.arduino.cc)
+  * [Adafruit Learning system](https://learn.adafruit.com)
+  * [SparkFun learning system](https://learn.sparkfun.com)
+
+* Forums
+   * [Arduino Forum](https://forum.arduino.cc) 
