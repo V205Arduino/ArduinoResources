@@ -1,9 +1,9 @@
 # MyFavoriteArduinoResources.
 This repo is filled with my favorite Arduino resources!
 Will add links.
-Arduino Forum
-Arduino Project Hub
-Arduino Docs
+
+* Table of contents:
+ * [Table of contents](https://github.com/V205Github/MyFavoriteArduinoResources.)
 
 
 
@@ -13,4 +13,5 @@ Arduino Docs
   * [SparkFun learning system](https://learn.sparkfun.com)
 
 * Forums
-   * [Arduino Forum](https://forum.arduino.cc) 
+   * [Arduino Forum](https://forum.arduino.cc) [How to get the best of this forum](https://forum.arduino.cc/t/how-to-get-the-best-out-of-this-forum/679966)
+
