@@ -12,7 +12,7 @@ This repo is filled with my favorite Arduino resources!
   * [Arduino Docs](https://docs.arduino.cc)
     * A useful collection of guides for Arduino. 
   * [Adafruit Learning system](https://learn.adafruit.com)
-    * Many useful and interesting tutorials. Leans more to Adafruit products. 
+    * Many useful and interesting tutorials. Leans more to Adafruit products. Also has docs about circuitPython and Raspberry Pi.
   * [SparkFun learning system](https://learn.sparkfun.com)
 
 * Forums:
