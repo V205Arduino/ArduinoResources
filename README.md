@@ -1,5 +1,5 @@
 # MyFavoriteArduinoResources.
-This repo is filled with my favorite Arduino resources!
+A list of Arduino resources!
 
 
 * Table of contents:
