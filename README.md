@@ -35,4 +35,4 @@ A list of Arduino resources!
     * A project hub for Arduino projects. Not sure if they accept projects with third party boards.
   * [Hackster.io](https://www.hackster.io) [Hackster.io Arduino Hub](https://www.hackster.io/arduino)
     * Hackster.io
-  * [Instructables]() 
+  * [Instructables](https://www.instructables.com) 
