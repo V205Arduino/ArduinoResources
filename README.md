@@ -2,6 +2,11 @@
 A list of Arduino resources!
 
 
+| Name    | Description | Arduino Section | Features | Pros | Cons | Notes | 
+| ----------- | ----------- | ---------- | ----------| ----| ----| -----|
+| Header      | Title       |            |
+| Paragraph   | Text        |
+
 * Table of contents:
   * [Table of contents](https://github.com/V205Github/MyFavoriteArduinoResources.)
   * [Documentation and Tutorials]
