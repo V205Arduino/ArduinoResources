@@ -2,10 +2,10 @@
 A list of Arduino resources!
 
 
-| Name    | Description | Arduino Section | Features | Pros | Cons | Notes | 
-| ----------- | ----------- | ---------- | ----------| ----| ----| -----|
+| Name        | Description | Arduino Section | Features | Pros | Cons | Notes | 
+| ----------- | ----------- | ----------------| -------- | -----| -----| ----- |
 | [Arduino Project Hub](https://projecthub.arduino.cc)|       |            |           |     |     |      |
-| Paragraph   | Text        |            |           |     |     |      |
+| [Hackster.io](https://www.hackster.io)   | Text        |            |           |     |     |      |
 
 
 * Table of contents:
