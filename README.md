@@ -1,4 +1,4 @@
-# MyFavoriteArduinoResources.
+# Arduino Resources.
 A list of Arduino resources!
 
 
