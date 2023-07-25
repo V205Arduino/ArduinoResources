@@ -2,10 +2,6 @@
 A list of Arduino resources!
 
 
-| Name        | Description | Arduino Section | Features | Pros | Cons | Notes | 
-| ----------- | ----------- | ----------------| -------- | -----| -----| ----- |
-| [Arduino Project Hub](https://projecthub.arduino.cc)|       |            |           |     |     |      |
-| [Hackster.io](https://www.hackster.io)   | Text        |            |           |     |     |      |
 
 
 * Table of contents:
@@ -34,6 +30,13 @@ A list of Arduino resources!
     * For Adafruit products.
   * [SparkFun Forum](https://forum.sparkfun.com)
     * For SparkFun products.
+   
+| Name        | Description | Arduino Section | Features | Pros | Cons | Notes | 
+| ----------- | ----------- | ----------------| -------- | -----| -----| ----- |
+| [Arduino Project Hub](https://projecthub.arduino.cc)|       |            |           |     |     |      |
+| [Hackster.io](https://www.hackster.io)   | Text        |            |           |     |     |      |
+| [Hackster.io](https://www.hackster.io)   | Text        |            |           |     |     |      |
+
         
 
 * Project Hubs.
@@ -41,4 +44,12 @@ A list of Arduino resources!
     * A project hub for Arduino projects. Not sure if they accept projects with third party boards.
   * [Hackster.io](https://www.hackster.io) [Hackster.io Arduino Hub](https://www.hackster.io/arduino)
     * Hackster.io
-  * [Instructables](https://www.instructables.com) 
+  * [Instructables](https://www.instructables.com)
+  
+| Name        | Description | Arduino Section | Features | Pros | Cons | Notes | 
+| ----------- | ----------- | ----------------| -------- | -----| -----| ----- |
+| [Arduino Project Hub](https://projecthub.arduino.cc)|   Arduino's official Project Hub.    |     NA. The whole thing is about Arduino. |           |     |     |      |
+| [Hackster.io](https://www.hackster.io)   |       |            |           |     |     |      |
+| [Hackster.io](https://www.hackster.io)   | Text        |            |           |     |     |      |
+
+  
