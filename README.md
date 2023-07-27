@@ -38,6 +38,10 @@ A list of Arduino resources!
 | [Hackster.io](https://www.hackster.io)   | Text        |            |           |     |     |      |
 
         
+| Name        | Description | Arduino Section | Features | Leans to | Pros | Cons |Also has| Notes | 
+| ----------- | ----------- | ----------------| -------- | ---------| -----| -----|--------|-------|
+| [Arduino Docs](https://docs.arduino.cc)| 
+
 
 * Project Hubs.
   * [Arduino Project Hub](https://projecthub.arduino.cc)
