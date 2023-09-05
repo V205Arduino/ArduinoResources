@@ -35,5 +35,14 @@ Hope someone finds it helpful.
   * [Arduino Project Hub](https://projecthub.arduino.cc)
     * A project hub for Arduino projects. Not sure if they accept projects with third party boards.
   * [Hackster.io](https://www.hackster.io) [Hackster.io Arduino Hub](https://www.hackster.io/arduino)
-    * Hackster.io
   * [Instructables](https://www.instructables.com) 
+
+* Programing tools:
+
+* Libraries
+
+* Chips(Please include link to bootloader)
+
+* Bootloader(Please include chip names or family)
+
+* 
