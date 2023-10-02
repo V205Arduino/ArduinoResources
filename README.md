@@ -37,11 +37,15 @@ Hope someone finds it helpful.
   * [Hackster.io](https://www.hackster.io) [Hackster.io Arduino Hub](https://www.hackster.io/arduino)
   * [Instructables](https://www.instructables.com) 
 
-* Programing tools:
 
 * Libraries
 
 * Chips(Please include link to bootloader)
+
+* IDEs:
+  
+* Cores:
+
 
 * Bootloader(Please include chip names or family)
 
